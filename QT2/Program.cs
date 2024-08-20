@@ -8,7 +8,7 @@ Questão 2: Pontuação Final
 
 @Lista: 01 - Lógica de Programação
 @Autor: João Wagner
-@Data: 19/08/2024
+@Data: 20/08/2024
 ---------------------------------------------------------------------*/
 
 

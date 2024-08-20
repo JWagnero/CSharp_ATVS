@@ -7,7 +7,7 @@ Questão 5: Cálculo de Distância Percorrida
 
 @Lista: 01 - Lógica de Programação
 @Autor: joão Wagner
-@Data: 19/08/2024
+@Data: 20/08/2024
 ---------------------------------------------------------------------*/
 
 using System;

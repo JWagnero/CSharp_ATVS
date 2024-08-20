@@ -6,7 +6,7 @@ Questão 4: Somatório de Moedas
 
 @Lista: 01 - Lógica de Programação
 @Autor: João Wagner
-@Data: 19/08/2024
+@Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;
 
